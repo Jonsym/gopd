@@ -1,0 +1,203 @@
+<mxfile host="65bd71144e">
+    <diagram id="TF8jKyotn7s5ceSks876" name="Page-1">
+        <mxGraphModel dx="764" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;p style=&quot;text-align:center&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 107%;&quot;&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;&quot; color=&quot;#000000&quot;&gt;DESARROLLO&lt;br&gt;E IMPLEMENTACIÓN DE UNA BASE DE DATOS INTEGRAL PARA LA GESTIÓN DE TRABAJADORES&lt;br&gt;EN OPD IMSS BIENESTAR.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="160" width="240" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Administradores." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Usuarios." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Invitados." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="310" y="280" as="sourcePoint"/>
+                        <mxPoint x="360" y="230" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="290" y="140"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="Configuración &lt;br&gt;del sistema." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="105" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.322;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="180" y="95.12" as="sourcePoint"/>
+                        <mxPoint x="328.0799999999999" y="220" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="300" y="90"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="Mantenimiento &lt;br&gt;del sistema." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="50" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;entryX=0.055;entryY=0.26;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="3" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="100" y="140" as="sourcePoint"/>
+                        <mxPoint x="248.07999999999993" y="264.88" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="260" y="170"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="Soporte&lt;br&gt;&amp;nbsp;técnico." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="185" y="135" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="72.88" y="140" as="sourcePoint"/>
+                        <mxPoint x="279.9999999999999" y="287.91999999999996" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="230" y="190"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="Gestión del&lt;br&gt;&amp;nbsp;personal." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="190" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;exitX=0;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="180" y="305" as="sourcePoint"/>
+                        <mxPoint x="230" y="255" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="160" y="250"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="Resultado de&lt;br&gt;consulta." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="175" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Informes de Estado &lt;br&gt;del Sistema." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="125" y="260" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;entryX=0.4;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.082;exitY=0.803;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="360" as="sourcePoint"/>
+                        <mxPoint x="53" y="141.70000000000002" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="90" y="270"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;entryX=0.4;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="316.68000000000006" y="351.02000000000004" as="sourcePoint"/>
+                        <mxPoint x="40" y="140.00000000000006" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="40" y="300"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="Logs y &lt;br&gt;Auditorías" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="320" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="580" y="95" as="sourcePoint"/>
+                        <mxPoint x="630" y="45" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="540" y="90"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="Registro de&lt;br&gt;&amp;nbsp;datos.&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="60" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.895;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="699.88" y="93.85" as="sourcePoint"/>
+                        <mxPoint x="510.00435246500444" y="189.99884574226516" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="559.88" y="103.85"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="Visualización&lt;br&gt;&amp;nbsp;de&amp;nbsp;datos." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="105" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;entryX=0.895;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="680" y="140" as="sourcePoint"/>
+                        <mxPoint x="534.8" y="231.23000000000005" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="569.88" y="135"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="Modificar datos." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="155" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="endArrow=none;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="4" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="710" y="190" as="sourcePoint"/>
+                        <mxPoint x="690" y="200" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="640" y="270"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="Confirmación de&amp;nbsp;&lt;br&gt;registro de datos." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="565" y="210" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="endArrow=none;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;endFill=0;startArrow=classic;startFill=1;exitX=0.873;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="780" y="160" as="sourcePoint"/>
+                        <mxPoint x="550" y="300" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="640" y="340"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="Resultado de&lt;br&gt;&amp;nbsp;busqueda." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="700" y="185" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="endArrow=none;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;endFill=0;startArrow=classic;startFill=1;exitX=0.873;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.968;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="800" y="139.99999999999997" as="sourcePoint"/>
+                        <mxPoint x="555.2441765269339" y="317.6021820701461" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="750" y="250"/>
+                            <mxPoint x="670" y="340"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="Error de registrar &lt;br&gt;o modificar datos." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="250" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="640" y="380" as="sourcePoint"/>
+                        <mxPoint x="690" y="330" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="360" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="Visualización&amp;nbsp;&lt;br&gt;de datos." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="460" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontFamily=Lucida Console;fontColor=#000000;curved=1;elbow=vertical;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.768;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="509.64" y="560" as="sourcePoint"/>
+                        <mxPoint x="509.9979490326306" y="393.2630027639125" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="530" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" value="Generación de&lt;br&gt;reportes." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="460" width="120" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
